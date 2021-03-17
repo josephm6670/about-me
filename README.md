@@ -9,7 +9,7 @@ ___
 
 Joseph grew up in Brooklyn, New York. Joseph was born on April 21st, 2005. 
 
-Schedule 
+**Schedule**
 
 1. PE
 
@@ -26,3 +26,13 @@ Schedule
 7. Spanish 
 
 8. Global History
+
+
+My favorite things to do:
+
+* Watching TV 
+* Playing video games 
+* Walking outdoors
+* Playing cards
+
+[Visit GitHub!](www.github.com)
