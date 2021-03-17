@@ -34,5 +34,6 @@ My favorite things to do:
 * Playing video games 
 * Walking outdoors
 * Playing cards
+* *Rummy 
 
 [Visit GitHub!](www.github.com)
