@@ -1,10 +1,11 @@
-Joseph Mancino
+# Joseph Mancino
 
-Student 
+## Student 
 
-High School of Telecommunication Ars and Technology 
+**High School of Telecommunication Ars and Technology**
 
-josephm6670@hstat.org 
+*josephm6670@hstat.org* 
+___
 
 Joseph grew up in Brooklyn, New York. Joseph was born on April 21st, 2005. 
 
