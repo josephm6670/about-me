@@ -36,6 +36,6 @@ Joseph grew up in *Brooklyn, New York*. Joseph was born on *April 21st, 2005*.
 * Playing video games 
 * Walking outdoors
 * Playing cards
- * Rummy 
+* * Rummy 
 
 [Visit GitHub!](www.github.com)
