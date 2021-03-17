@@ -7,7 +7,7 @@
 *josephm6670@hstat.org* 
 ___
 
-Joseph grew up in Brooklyn, New York. Joseph was born on April 21st, 2005. 
+Joseph grew up in *Brooklyn, New York*. Joseph was born on *April 21st, 2005*. 
 
 **Schedule**
 
@@ -28,12 +28,12 @@ Joseph grew up in Brooklyn, New York. Joseph was born on April 21st, 2005.
 8. Global History
 
 
-My favorite things to do:
+**My favorite things to do:**
 
 * Watching TV 
 * Playing video games 
 * Walking outdoors
 * Playing cards
-* *Rummy 
+* * Rummy 
 
 [Visit GitHub!](www.github.com)
