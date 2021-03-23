@@ -1,13 +1,12 @@
 # Joseph Mancino
 
-## Student 
-
-**High School of Telecommunication Ars and Technology**
+**Student at High School of Telecommunication Arts and Technology**
 
 *josephm6670@hstat.org* 
-___
 
-Joseph grew up in *Brooklyn, New York*. Joseph was born on *April 21st, 2005*. 
+---
+
+Joseph grew up in **Brooklyn, New York**. Joseph was born on **April 21st, 2005**. 
 
 
 
@@ -36,6 +35,9 @@ Joseph grew up in *Brooklyn, New York*. Joseph was born on *April 21st, 2005*.
 * Playing video games 
 * Walking outdoors
 * Playing cards
-* * Rummy 
+  * Rummy 
 
 [Visit GitHub!](www.github.com)
+
+
+Reviewed by Emmanuel Dorta, the ultimate gamer.
